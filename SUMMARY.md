@@ -18,6 +18,7 @@
 - [Section overview](02_threat-actors-and-intelligence/README.md)
 - [Lazarus Group](02_threat-actors-and-intelligence/lazarus-group.md)
 - [Cyber and intelligence services](02_threat-actors-and-intelligence/cyber-and-intelligence-services.md)
+- [Shadow Brokers](02_threat-actors-and-intelligence/shadow-brokers.md)
 
 ## Crypto Threat Intelligence
 
