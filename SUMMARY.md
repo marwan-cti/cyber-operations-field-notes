@@ -54,6 +54,7 @@
 - [People index](07_people-communities-and-researchers/people-index.md)
 - [ZachXBT](07_people-communities-and-researchers/zachxbt.md)
 - [Pliny the Liberator](07_people-communities-and-researchers/pliny-the-liberator.md)
+- [Jason Haddix](07_people-communities-and-researchers/jason-haddix.md)
 - [Roni Carta](07_people-communities-and-researchers/roni-carta.md)
 - [Florian Roth](07_people-communities-and-researchers/florian-roth.md)
 - [Marcus Hutchins](07_people-communities-and-researchers/marcus-hutchins.md)
