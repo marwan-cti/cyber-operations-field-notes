@@ -17,6 +17,7 @@
 
 - [Section overview](02_threat-actors-and-intelligence/README.md)
 - [Lazarus Group](02_threat-actors-and-intelligence/lazarus-group.md)
+- [GRU-linked APT ecosystem](02_threat-actors-and-intelligence/gru-linked-apt-ecosystem.md)
 - [Cyber and intelligence services](02_threat-actors-and-intelligence/cyber-and-intelligence-services.md)
 - [Shadow Brokers](02_threat-actors-and-intelligence/shadow-brokers.md)
 
@@ -52,6 +53,7 @@
 
 - [Section overview](07_people-communities-and-researchers/README.md)
 - [People index](07_people-communities-and-researchers/people-index.md)
+- [Unit 42](07_people-communities-and-researchers/unit-42.md)
 - [ZachXBT](07_people-communities-and-researchers/zachxbt.md)
 - [Pliny the Liberator](07_people-communities-and-researchers/pliny-the-liberator.md)
 - [BAUSI community](07_people-communities-and-researchers/bausi-community.md)
@@ -59,6 +61,7 @@
 - [Roni Carta](07_people-communities-and-researchers/roni-carta.md)
 - [Florian Roth](07_people-communities-and-researchers/florian-roth.md)
 - [Marcus Hutchins](07_people-communities-and-researchers/marcus-hutchins.md)
+- [Christo Grozev](07_people-communities-and-researchers/christo-grozev.md)
 - [NetworkChuck](07_people-communities-and-researchers/networkchuck.md)
 
 ## Conference, podcast and media notes
