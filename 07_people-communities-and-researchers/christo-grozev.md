@@ -1,88 +1,27 @@
 # Christo Grozev
 
-## Status
+**Type:** OSINT / investigative journalism / attribution
 
-Draft v1 — OSINT / investigative journalism profile.
+## Why he is on my radar
 
-## How I discovered him
+I discovered Christo Grozev through Bellingcat-related investigations around Russian intelligence operations, Navalny, Skripal, MH17 and OSINT (Open Source Intelligence).
 
-I discovered Christo Grozev through investigations around Russian intelligence operations, Bellingcat, Navalny, Skripal, MH17 and the broader OSINT (Open Source Intelligence) ecosystem.
+## What stuck with me
 
-What caught my attention is the way his work shows that open-source investigation can identify people, units, travel patterns, telecom data links and operational networks that were previously associated with traditional intelligence work.
+What interests me is the method. His work shows how public or semi-public fragments can be connected into a serious investigation: travel patterns, telecom traces, registries, social media, identities and timelines.
 
-## Why he matters in my cyber culture
+It also shows that attribution is not only technical. Sometimes it is about linking human networks, operational behavior and context.
 
-Christo Grozev matters because he represents a bridge between journalism, OSINT, counterintelligence-style investigation and public accountability.
+## What I take from it
 
-His work with Bellingcat and partner organizations shows that modern investigations can combine:
+Grozev helped me understand that OSINT can have strategic impact when it is rigorous and transparent.
 
-- leaked or commercially available datasets;
-- travel records;
-- telecom metadata;
-- social media traces;
-- public registries;
-- geolocation;
-- collaborative verification;
-- transparent publication.
+For CTI (Cyber Threat Intelligence), the lesson is not to copy sensitive methods, but to learn the discipline: show your evidence, separate inference from fact, corroborate, and avoid overclaiming.
 
-For someone interested in CTI (Cyber Threat Intelligence), this is important because cyber analysis also depends on linking fragments: infrastructure, actors, timelines, technical artifacts, targeting and intent.
+## Current limit
 
-## Area
+Some of the datasets and methods used in this kind of investigation raise legal and ethical questions. I want to learn the analytical discipline without reproducing questionable sourcing.
 
-- OSINT investigations.
-- Russian intelligence operations.
-- Attribution and identity resolution.
-- Navalny poisoning investigation.
-- Skripal poisoning investigation.
-- MH17-related investigative ecosystem.
-- Bellingcat methodology.
-- Investigative risk and personal security.
+## Resources I actually used
 
-## What I learned from his work
-
-- OSINT can produce strategic impact when it is rigorous and transparent.
-- Attribution is not only technical; it can involve travel, identity, telecom, finance, social networks and organizational context.
-- Good investigations show their method, not only their conclusion.
-- Public exposure of covert networks can create personal risk for investigators.
-- Intelligence analysis and journalism can overlap, but they are not the same discipline.
-
-## Relevance for CTI
-
-For CTI, Christo Grozev is useful because his work reinforces several analytical habits:
-
-- build timelines;
-- separate evidence from inference;
-- show methodology;
-- corroborate across independent sources;
-- identify confidence levels;
-- avoid relying on a single artifact;
-- understand that attribution is a multi-layer process.
-
-His work is not “cyber threat intelligence” in the narrow sense, but it is deeply relevant to intelligence-minded analysis. It shows how structured investigation can turn fragmented public data into accountable claims.
-
-## Defensive relevance
-
-For defenders and analysts, the lesson is not to copy sensitive methods blindly. The lesson is to develop discipline:
-
-- document sources;
-- preserve uncertainty;
-- avoid overclaiming;
-- understand adversary infrastructure and human networks;
-- think about OPSEC (Operational Security) and personal risk;
-- recognize how public exposure can change an adversary’s behavior.
-
-## Caveats
-
-This profile should avoid turning Grozev into a political symbol. The relevant angle for this portfolio is method: OSINT, attribution, evidence, corroboration and risk.
-
-Some investigations rely on datasets or access paths that may raise ethical and legal questions depending on jurisdiction. For my own learning, the key is not to reproduce sensitive sourcing but to understand verification logic, transparency and evidence handling.
-
-I should also be careful with claims about Russian services and named individuals: use primary investigation links, reputable journalism and legal records when available.
-
-## Sources to prioritize next
-
-- Bellingcat — FSB Team of Chemical Weapon Experts Implicated in Alexey Navalny Novichok Poisoning: https://www.bellingcat.com/news/2020/12/14/fsb-team-of-chemical-weapon-experts-implicated-in-alexey-navalny-novichok-poisoning/
-- ICFJ — Christo Grozev & Bellingcat profile: https://www.icfj.org/about/profiles/christo-grozev-bellingcat
-- The New Yorker — How Bellingcat Unmasked Putin's Assassins: https://www.newyorker.com/news/dispatch/how-bellingcat-unmasked-putins-assassins
-- Reuters — suspected Russian spy network targeting Christo Grozev: https://www.reuters.com/world/europe/suspected-russian-spies-targeted-journalist-with-facebook-honey-trap-uk-court-2024-12-02/
-- Le Monde / Arte documentary coverage on Grozev and Putin's poisoners.
+Bellingcat investigations, documentaries/articles around Navalny, Skripal, MH17 and public discussions of Grozev’s OSINT work.
