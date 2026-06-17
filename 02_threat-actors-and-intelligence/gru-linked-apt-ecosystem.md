@@ -1,107 +1,27 @@
 # GRU-linked APT ecosystem
 
-## Status
+**Type:** threat actor ecosystem / state-linked cyber operations
 
-Draft v1 — threat actor / intelligence ecosystem note.
+## Why it is on my radar
 
-## Why this topic matters
+I became interested in GRU-linked cyber activity through APT28, Sandworm, NotPetya, Ukraine-related operations, election interference stories, OPCW targeting and the broader intersection between cyber and military intelligence.
 
-The GRU-linked APT ecosystem matters because it shows how public cyber threat intelligence connects technical intrusion sets with state military intelligence objectives.
+## What stuck with me
 
-This note is not about sensationalizing Russian intelligence services. It is about understanding how public reporting, indictments, vendor research and MITRE ATT&CK group pages connect specific clusters of activity to Russian military intelligence structures.
+What interests me is the connection between cyber operations and strategic objectives. Some intrusions are not mainly about money. They can support espionage, disruption, influence, military timing or pressure against specific states and institutions.
 
-## Core idea
+The other thing that stuck with me is the naming complexity. APT28, Fancy Bear, Sofacy, Sandworm, TeleBots, Voodoo Bear, Forest Blizzard, Seashell Blizzard: different vendors and governments use different labels. That confusion is part of the CTI problem.
 
-Public sources commonly connect several cyber activity clusters to Russia's GRU (Main Directorate of the General Staff of the Armed Forces of the Russian Federation), especially:
+## What I take from it
 
-- **APT28 / Fancy Bear / Sofacy / STRONTIUM / Forest Blizzard** — commonly associated with GRU Unit 26165.
-- **Sandworm Team / Telebots / Voodoo Bear / IRIDIUM / Seashell Blizzard / APT44** — attributed in public sources to GRU Unit 74455.
-- **Ember Bear / Cadet Blizzard / DEV-0586** — often discussed in the context of destructive or disruptive operations around Ukraine, with public reporting sometimes connecting activity to GRU Unit 29155.
+This topic helped me understand that attribution is layered. A technical cluster, a vendor name, a government indictment, a military unit and an intelligence assessment are not the same thing.
 
-The naming is confusing because different vendors use different labels. That confusion itself is a learning point for CTI.
+For my cyber culture, GRU-linked APT activity is a strong example of why geopolitics matters in CTI (Cyber Threat Intelligence), but also why analysts must avoid sounding more certain than the public evidence allows.
 
-## Why this matters in my cyber culture
+## Current limit
 
-GRU-linked APT activity is important to me because it sits at the intersection of cyber operations, geopolitics, military intelligence, disinformation, sabotage and public attribution.
+I still need to study APT28 and Sandworm separately instead of treating the whole ecosystem as one block.
 
-It connects several cases I have studied or want to study:
+## Resources I actually used
 
-- DNC and election-related operations.
-- OPCW targeting.
-- MH17-related investigative targeting.
-- Ukraine power grid attacks.
-- NotPetya.
-- Olympic Destroyer.
-- WhisperGate and destructive operations around Ukraine.
-- Infrastructure compromise and botnet preparation.
-
-## Analytical angle
-
-The key lesson is that attribution is layered.
-
-A defender may have:
-
-- malware similarities;
-- infrastructure reuse;
-- TTP (Tactics, Techniques and Procedures) overlap;
-- targeting patterns;
-- language or compile-time clues;
-- leaked documents;
-- government indictments;
-- intelligence statements;
-- vendor assessments.
-
-None of these layers are identical. A mature CTI analyst should not mix them carelessly.
-
-## Defensive relevance
-
-### For CTI
-
-The GRU-linked ecosystem is useful for learning how to handle attribution confidence.
-
-Important questions:
-
-- Which group name is being used, and by which vendor?
-- Is this a technical cluster, a state unit, a persona or an umbrella label?
-- Does the report provide confidence levels?
-- Is the attribution technical, political, legal or intelligence-based?
-- What evidence is public, and what evidence is probably not public?
-
-### For SOC and threat hunting
-
-For SOC teams, the main value is not to say “this is the GRU” every time a technique overlaps. The value is to understand the operational patterns associated with high-impact actors:
-
-- spearphishing and credential theft;
-- infrastructure staging;
-- edge device compromise;
-- destructive malware;
-- wipers;
-- hack-and-leak operations;
-- use of false flags or misleading artifacts;
-- targeting of governments, defense, energy, media and critical infrastructure.
-
-### For strategic analysis
-
-GRU-linked cyber operations demonstrate that some intrusions are not purely financial. They may support military, political, psychological or strategic objectives. That matters for impact assessment and prioritization.
-
-## Caveats
-
-This topic is politically sensitive. I should avoid partisan framing and stick to sourced public claims.
-
-The GRU label should not be used casually. Many APT names are vendor taxonomies, not legal identities. Even when public attribution is strong, the analyst should distinguish:
-
-- technical cluster;
-- named actor;
-- state service;
-- military unit;
-- legal indictment;
-- intelligence assessment.
-
-## Sources to prioritize next
-
-- MITRE ATT&CK — APT28 / G0007: https://attack.mitre.org/groups/G0007/
-- MITRE ATT&CK — Sandworm Team / G0034: https://attack.mitre.org/groups/G0034/
-- US DOJ — GRU Unit 74455 indictment / destructive malware operations: https://www.justice.gov/opa/pr/six-russian-gru-officers-charged-connection-worldwide-deployment-destructive-malware-and
-- CISA / FBI / NSA advisories on Russian state-sponsored cyber activity.
-- Mandiant — APT44 / Sandworm research.
-- Microsoft, ESET, CrowdStrike and Sekoia reports for naming comparison.
+MITRE ATT&CK, vendor research references, public reporting around NotPetya, Sandworm, APT28, Ukraine-related cyber operations and discussions around Russian military intelligence-linked activity.
