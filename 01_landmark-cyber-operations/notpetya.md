@@ -1,46 +1,27 @@
 # NotPetya
 
-## Status
+**Type:** destructive malware / wiper / supply chain incident
 
-Draft v1 — learning case file.
+## Why it is on my radar
 
-## How I discovered the topic
+I discovered NotPetya while digging into WannaCry, EternalBlue, Shadow Brokers and the major destructive cyber incidents linked to Ukraine. I mainly encountered it through YouTube videos, Wikipedia, MITRE ATT&CK and vendor/security team interviews.
 
-I discovered NotPetya through YouTube videos, Wikipedia, MITRE ATT&CK, vendor research and interviews with security teams who analyzed the incident. I also studied the connection with EternalBlue, the Shadow Brokers leak, Ukraine, M.E.Doc and the broader history of destructive malware.
+## What stuck with me
 
-## Why this case matters
+The thing that stayed with me is the label problem. At first glance, NotPetya looked like ransomware, but the important lesson is that it behaved more like a wiper.
 
-NotPetya matters because it looked like ransomware but behaved like a wiper. That distinction is central. If defenders interpret destructive malware as financially motivated ransomware, they may misunderstand the actor’s intent, the recovery expectations and the geopolitical context.
+That distinction matters. If you misread a destructive operation as financially motivated ransomware, you misunderstand the attacker’s goal, the recovery expectations and the geopolitical context.
 
-## Executive summary
+## What I take from it
 
-- NotPetya appeared on June 27, 2017 and was initially confused with Petya-like ransomware.
-- MITRE ATT&CK describes it as malware used by Sandworm Team in a worldwide attack beginning on June 27, 2017.
-- Although it presented a ransom interface, its main purpose was destructive: data and disk structures were not intended to be recoverable.
-- ESET connected the outbreak to supply chain compromise involving Ukrainian accounting software M.E.Doc and the TeleBots activity cluster.
-- NotPetya is a key case for understanding wipers, supply chain risk, geopolitical targeting and global collateral damage.
+NotPetya helped me understand why CTI (Cyber Threat Intelligence) analysts need to challenge labels. A ransom note does not automatically mean ransomware. The behavior, context and recovery logic matter.
 
-## Technical concepts to retain
+It also made supply chain risk concrete for me: a local or sector-specific software provider can become the entry point for global damage.
 
-- Wiper disguised as ransomware.
-- Supply chain compromise.
-- M.E.Doc.
-- Lateral movement.
-- EternalBlue / EternalRomance.
-- Collateral damage.
-- Attribution and confidence.
+## Current limit
 
-## Defensive relevance
+I still need to deepen the exact technical chain around M.E.Doc, lateral movement and the different propagation methods.
 
-For CTI, NotPetya forces the analyst to challenge labels. A ransom note does not necessarily mean ransomware. Analysts need to examine whether payment, decryption and recovery mechanisms are credible.
+## Resources I actually used
 
-For SOC teams, NotPetya highlights the need to monitor software update channels, suspicious lateral movement, credential dumping, administrative tool abuse, SMB exploitation and destructive disk activity.
-
-For supply chain security, the case shows that local or sector-specific software can become a strategic infection path.
-
-## Sources to prioritize next
-
-- MITRE ATT&CK — NotPetya / S0368: https://attack.mitre.org/software/S0368/
-- Microsoft — Update on Petya malware attacks: https://www.microsoft.com/en-us/msrc/blog/2017/06/update-on-petya-malware-attacks/
-- ESET — TeleBots are back: https://www.welivesecurity.com/2017/06/30/telebots-back-supply-chain-attacks-against-ukraine/
-- CISA — Petya / NotPetya alert: https://www.cisa.gov/news-events/alerts/2017/07/01/petya-ransomware
+YouTube videos, Wikipedia, MITRE ATT&CK, vendor research references and interviews around the teams that studied the incident.
