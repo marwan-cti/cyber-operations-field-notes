@@ -6,8 +6,9 @@
 
 ## AI Security and adversarial AI
 
-- Pliny the Liberator — jailbreak culture and adversarial prompt experimentation.
+- Pliny the Liberator — jailbreak culture, adversarial prompting and AI red team ecosystem signal.
 - BAUSI community — AI Security, red teaming and adversarial AI discussion space.
+- Jason Haddix — offensive security methodology, AI red teaming, bug bounty, recon and Arcanum Information Security.
 
 ## Supply chain security
 
