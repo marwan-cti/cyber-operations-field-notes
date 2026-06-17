@@ -6,7 +6,7 @@ The goal is not to collect random cyber content. The goal is to turn cyber cultu
 
 ## What this portfolio is about
 
-This portfolio focuses on seven learning pillars:
+This portfolio focuses on eight learning pillars:
 
 1. **Landmark cyber operations** — major incidents such as Stuxnet, WannaCry, NotPetya, Operation Triangulation and SolarWinds.
 2. **Threat actors and intelligence** — APT (Advanced Persistent Threat) groups, state-linked capabilities, attribution limits and intelligence tradecraft.
@@ -15,6 +15,7 @@ This portfolio focuses on seven learning pillars:
 5. **Supply chain security** — open-source trust, maintainer compromise, dependency risk, XZ Utils and supply chain lessons from researchers and practitioners.
 6. **Detection and tradecraft** — IOC (Indicator of Compromise) to TTP (Tactics, Techniques and Procedures) analysis, YARA, Sigma, MITRE ATT&CK and confidence handling.
 7. **People, communities and researchers** — short ecosystem profiles of relevant researchers, investigators, communities and educators.
+8. **Conference, podcast and media notes** — media sources that shaped my cyber culture and led me toward stronger technical sources.
 
 ## Repository map
 
@@ -26,6 +27,7 @@ This portfolio focuses on seven learning pillars:
 - [`05_supply-chain-security/`](05_supply-chain-security/) — software supply chain, open-source trust and dependency risk.
 - [`06_detection-and-tradecraft/`](06_detection-and-tradecraft/) — defensive tradecraft, detection logic and analytical confidence.
 - [`07_people-communities-and-researchers/`](07_people-communities-and-researchers/) — people, communities and research teams that shape my cyber culture.
+- [`08_conference-podcast-and-media-notes/`](08_conference-podcast-and-media-notes/) — podcasts, YouTube channels and long-form media used as discovery sources.
 - [`templates/`](templates/) — reusable note templates.
 
 ## AI-assisted disclosure
