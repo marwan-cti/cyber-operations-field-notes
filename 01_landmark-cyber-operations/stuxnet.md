@@ -8,13 +8,17 @@ I discovered Stuxnet through YouTube documentaries and cyber history videos, the
 
 ## What stuck with me
 
-What marked me is the physical dimension. Stuxnet showed me that malware can be part of a strategic operation aimed at real-world equipment, not just computers.
+What marked me first is the sophistication. Stuxnet felt like a different category of operation: malware, industrial systems, physical sabotage, intelligence work and deep knowledge of the target environment all tied together.
 
-I also remember the tension between sophistication and loss of control. The operation is often presented as extremely advanced, but some choices around propagation and urgency seem to have made it more visible. That is what interests me: even a highly resourced operation can become unstable or exposed.
+The physical dimension also stayed with me. Stuxnet showed me that code can be used to affect real-world equipment, not just computers.
+
+It also opened a broader curiosity around air-gapped systems and covert channels. I do not want to claim that Stuxnet itself used “waves” to exfiltrate data, but it pushed me toward subjects where isolated machines, physical signals, electromagnetic emissions or other side channels become part of the security conversation.
 
 ## What I take from it
 
 Stuxnet helped me understand why CTI (Cyber Threat Intelligence) needs context. The technical artifact is only one layer. You also need to think about the target, the objective, the geopolitical environment, the systems affected and what can actually be proven publicly.
+
+It also explains why I later became interested in the Israeli cyber ecosystem, Unit 8200, NSO Group, Pegasus and the private surveillance industry.
 
 ## Current limit
 
@@ -22,4 +26,4 @@ I have not deeply mastered the ICS (Industrial Control Systems) / PLC (Programma
 
 ## Resources I actually used
 
-YouTube documentaries, Wikipedia and MITRE ATT&CK. The sources I would revisit next are Kim Zetter, Symantec and CISA for a deeper technical version.
+YouTube documentaries, Wikipedia and MITRE ATT&CK. This topic also led me toward research on Unit 8200, air-gap security, Israeli cyber capabilities and spyware companies such as NSO Group.
