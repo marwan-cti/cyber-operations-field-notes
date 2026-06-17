@@ -1,57 +1,23 @@
 # Tronche de Tech
 
-## Status
+**Type:** French tech podcast / practitioner portraits / career paths
 
-Draft v1 — podcast / media ecosystem note.
+## Why it is on my radar
 
-## How I discovered it
+I discovered Tronche de Tech through French tech podcast content, especially interviews with people from the tech and cyber ecosystem like Roni Carta.
 
-I discovered Tronche de Tech through French tech podcast content and interviews with people from the technology and cybersecurity ecosystem, including Roni Carta.
+## What stuck with me
 
-The format caught my attention because it focuses on people, career paths, failures, anecdotes and the hidden side of tech. That makes it useful for understanding how technical people think and how they build their path.
+What I like is the human side. The podcast shows careers, failures, doubts, opportunities and technical passion. That matters to me because my own path into cyber is not linear either.
 
-## Why it matters in my cyber culture
+## What I take from it
 
-Tronche de Tech matters because it documents the human side of technology.
+Tronche de Tech helped me see that technical people are also shaped by curiosity, persistence, accidents and personal history. It is useful for understanding the people behind the work, not just the tools.
 
-Cybersecurity culture is not only built through malware reports and vulnerability write-ups. It is also built through stories of practitioners: how they discovered their domain, how they failed, how they found opportunities, how they think about risk and how they explain their work.
+## Current limit
 
-The Roni Carta episodes are especially relevant to my supply chain security interest because they connect a person, a mindset, bug bounty, AI hacking, dependency risk and the creation of a company focused on software supply chain security.
+I treat it as a cultural and career source, not as technical proof.
 
-## Area
+## Resources I actually used
 
-- French-language tech podcasting.
-- Practitioner portraits.
-- Career paths and failures.
-- Cybersecurity and tech entrepreneurship.
-- Supply chain security through interviews with Roni Carta.
-- Human context behind technical work.
-
-## What I learned from this source
-
-- Technical careers are rarely linear.
-- Passion, curiosity and persistence can be as important as credentials.
-- Interviews reveal mindset, not only facts.
-- A good profile can help identify people and companies worth deeper research.
-- Human stories should still be separated from technical validation.
-
-## Relevance for CTI
-
-For CTI (Cyber Threat Intelligence), Tronche de Tech is not a primary technical source. Its value is contextual.
-
-It can help identify people, companies, research directions and ecosystem trends. For example, an interview with a supply chain security researcher can point toward technical blog posts, product pages, conference talks and vulnerability write-ups that deserve deeper analysis.
-
-This matters for my learning because CTI requires source discovery. Not every source is evidence, but many sources can guide investigation.
-
-## Caveats
-
-Podcast interviews are narrative sources. They can be inspiring and informative, but they are not enough to support technical claims alone.
-
-When a Tronche de Tech episode introduces a cyber topic, I should follow up with primary sources: technical write-ups, advisories, vendor research, company blogs, conference talks and reproducible evidence.
-
-## Sources to prioritize next
-
-- Tronche de Tech on Apple Podcasts: https://podcasts.apple.com/fr/podcast/tronche-de-tech/id1692421892
-- Tronche de Tech on Acast: https://shows.acast.com/tronche-de-tech
-- #25 — Roni Carta, Chasseur de primes: https://shows.acast.com/tronche-de-tech/episodes/25-roni-carteur-chasseur-de-primes
-- #49 — Roni Carta, Le mal du siècle: https://shows.acast.com/tronche-de-tech/episodes
+Tronche de Tech episodes, especially Roni Carta interviews and other tech practitioner portraits.
