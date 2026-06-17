@@ -21,6 +21,7 @@
 
 ## Education and media
 
+- NetworkChuck — IT education, networking, Linux, cloud basics, homelab and beginner-friendly cyber on-ramp.
 - John Hammond — practical cyber education, malware analysis and CTF learning.
 - Darknet Diaries — long-form storytelling on cyber incidents and hacker culture.
 - DEF CON community — offensive research, hacker culture and security conference ecosystem.
