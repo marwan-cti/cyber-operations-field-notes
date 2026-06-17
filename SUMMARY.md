@@ -25,9 +25,10 @@
 
 - [Section overview](03_crypto-threat-intelligence/README.md)
 - [Why crypto matters for CTI](03_crypto-threat-intelligence/why-crypto-matters-for-cti.md)
+- [ZachXBT and on-chain investigations](03_crypto-threat-intelligence/zachxbt-and-on-chain-investigations.md)
 - [Ronin Bridge hack](03_crypto-threat-intelligence/ronin-bridge-hack.md)
 - [Bybit hack](03_crypto-threat-intelligence/bybit-hack.md)
-- [ZachXBT and on-chain investigations](03_crypto-threat-intelligence/zachxbt-and-on-chain-investigations.md)
+- [Lazarus and crypto operations](03_crypto-threat-intelligence/lazarus-and-crypto-operations.md)
 
 ## AI Security and adversarial AI
 
