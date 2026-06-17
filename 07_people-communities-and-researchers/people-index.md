@@ -1,8 +1,16 @@
 # People index
 
+## Threat intelligence and vendor research teams
+
+- Unit 42 — Palo Alto Networks threat intelligence, incident response and cyber risk research team.
+
 ## Crypto investigations
 
 - ZachXBT — on-chain investigations, scam exposure, crypto threat intelligence.
+
+## OSINT and investigative journalism
+
+- Christo Grozev — Bellingcat / The Insider investigator, Russian intelligence investigations, Navalny, Skripal and OSINT attribution work.
 
 ## AI Security and adversarial AI
 
