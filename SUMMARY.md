@@ -11,6 +11,8 @@
 - [Lazarus Group](02_threat-actors-and-intelligence/lazarus-group.md)
 - [GRU-linked APT ecosystem](02_threat-actors-and-intelligence/gru-linked-apt-ecosystem.md)
 - [Cyber and intelligence services](02_threat-actors-and-intelligence/cyber-and-intelligence-services.md)
+- [Unit 8200](02_threat-actors-and-intelligence/unit-8200.md)
+- [NSO Group and Pegasus](02_threat-actors-and-intelligence/nso-group-and-pegasus.md)
 - [Shadow Brokers](02_threat-actors-and-intelligence/shadow-brokers.md)
 
 ## Crypto threat intelligence
