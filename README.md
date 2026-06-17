@@ -1,39 +1,42 @@
-# Cyber Operations Field Notes — CTI & AI Security Learning Portfolio
+# Cyber Operations Field Notes
 
-This repository documents my learning path toward Cyber Threat Intelligence (CTI) and AI Security through structured notes on cyber operations, threat actors, crypto hacks, adversarial AI communities, supply chain attacks, detection tradecraft and public cyber research.
+This repository is my personal cyber culture map.
 
-The goal is not to collect random cyber content. The goal is to turn cyber culture into structured, sourced and defensively useful analysis.
+It brings together the cyber operations, threat actors, crypto investigations, AI Security topics, researchers, communities, podcasts and media that shaped my interest in cybersecurity and my orientation toward CTI (Cyber Threat Intelligence) and AI Security.
 
-## What this portfolio is about
+The goal is not to build an encyclopedia or pretend to be an expert on every subject. The goal is to show what caught my attention, what I understood from it, and how it connects to the way I think about cyber threats.
 
-This portfolio focuses on eight learning pillars:
+## What this repo is
 
-1. **Landmark cyber operations** — major incidents such as Stuxnet, WannaCry, NotPetya, Operation Triangulation and SolarWinds.
-2. **Threat actors and intelligence** — APT (Advanced Persistent Threat) groups, state-linked capabilities, attribution limits and intelligence tradecraft.
-3. **Crypto Threat Intelligence** — bridge hacks, laundering, on-chain investigations, Lazarus-linked operations and investigators such as ZachXBT.
-4. **AI Security and adversarial AI** — prompt injection, jailbreak culture, AI red teaming communities, MCP (Model Context Protocol) risks and agentic AI threats.
-5. **Supply chain security** — open-source trust, maintainer compromise, dependency risk, XZ Utils and supply chain lessons from researchers and practitioners.
-6. **Detection and tradecraft** — IOC (Indicator of Compromise) to TTP (Tactics, Techniques and Procedures) analysis, YARA, Sigma, MITRE ATT&CK and confidence handling.
-7. **People, communities and researchers** — short ecosystem profiles of relevant researchers, investigators, communities and educators.
-8. **Conference, podcast and media notes** — media sources that shaped my cyber culture and led me toward stronger technical sources.
+A collection of short field notes about:
 
-## Repository map
+- landmark cyber operations;
+- threat actors and intelligence-linked activity;
+- crypto hacks and on-chain investigations;
+- AI Security and jailbreak culture;
+- supply chain security;
+- detection and threat hunting culture;
+- researchers, practitioners and communities;
+- podcasts, YouTube channels and long-form cyber media.
 
-- [`00_start-here/`](00_start-here/) — project context, methodology and ethical boundaries.
-- [`01_landmark-cyber-operations/`](01_landmark-cyber-operations/) — historical and high-impact cyber operations.
-- [`02_threat-actors-and-intelligence/`](02_threat-actors-and-intelligence/) — actors, attribution and intelligence-linked operations.
-- [`03_crypto-threat-intelligence/`](03_crypto-threat-intelligence/) — crypto hacks, laundering and on-chain investigations.
-- [`04_ai-security-and-adversarial-ai/`](04_ai-security-and-adversarial-ai/) — AI security, jailbreaks, prompt injection and agentic systems.
-- [`05_supply-chain-security/`](05_supply-chain-security/) — software supply chain, open-source trust and dependency risk.
-- [`06_detection-and-tradecraft/`](06_detection-and-tradecraft/) — defensive tradecraft, detection logic and analytical confidence.
-- [`07_people-communities-and-researchers/`](07_people-communities-and-researchers/) — people, communities and research teams that shape my cyber culture.
-- [`08_conference-podcast-and-media-notes/`](08_conference-podcast-and-media-notes/) — podcasts, YouTube channels and long-form media used as discovery sources.
-- [`templates/`](templates/) — reusable note templates.
+## Editorial format
+
+Each note should stay short and readable.
+
+The expected format is:
+
+1. **Why it is on my radar** — how I discovered the subject and why it stayed with me.
+2. **What I understood** — the key idea I personally take from it.
+3. **Why it matters to my cyber culture** — the link with CTI, SOC, AI Security, OSINT, crypto, geopolitics or defensive thinking.
+4. **Current limit** — what I have not fully mastered yet.
+5. **Resources I actually used** — videos, podcasts, articles, reports or sources that genuinely shaped the note.
+
+## What this repo is not
+
+This is not a threat intelligence report archive, a technical wiki, a tutorial collection or a copy of vendor research.
+
+Some notes are analytical. Others are just cultural markers. That is intentional: the repo is meant to show how my cyber culture is built, not to over-document every topic.
 
 ## AI-assisted disclosure
 
-Some notes may be drafted, structured or edited with the help of AI tools such as ChatGPT or NotebookLM. The analytical responsibility remains mine: topic selection, source validation, confidence level, caveats and final publication decisions are human-reviewed.
-
-## Repository status
-
-This portfolio is a work in progress. Early notes may start as structured stubs and later evolve into fuller case files.
+Some notes are drafted or rewritten with AI assistance. The purpose is to structure my thoughts, not to replace my judgment. I keep responsibility for the angle, the sources I actually used, the caveats and the final publication.
