@@ -23,6 +23,8 @@
 
 - NetworkChuck — IT education, networking, Linux, cloud basics, homelab and beginner-friendly cyber on-ramp.
 - John Hammond — practical cyber education, malware analysis and CTF learning.
-- Darknet Diaries — long-form storytelling on cyber incidents and hacker culture.
+- Micode — French-language cybersecurity vulgarization and internet investigations.
+- Underscore_ — French tech/cyber panel format, interviews and ecosystem discussions.
+- Tronche de Tech — French tech podcast focused on practitioner portraits, career paths and hidden sides of tech.
+- Darknet Diaries — long-form storytelling on cyber incidents, hacker culture and cybercrime.
 - DEF CON community — offensive research, hacker culture and security conference ecosystem.
-- Underscore / Micode — French-language cyber and tech culture entry points.
