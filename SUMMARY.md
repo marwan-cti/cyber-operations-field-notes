@@ -61,6 +61,14 @@
 - [Marcus Hutchins](07_people-communities-and-researchers/marcus-hutchins.md)
 - [NetworkChuck](07_people-communities-and-researchers/networkchuck.md)
 
+## Conference, podcast and media notes
+
+- [Section overview](08_conference-podcast-and-media-notes/README.md)
+- [Micode](08_conference-podcast-and-media-notes/micode.md)
+- [Underscore_](08_conference-podcast-and-media-notes/underscore.md)
+- [Tronche de Tech](08_conference-podcast-and-media-notes/tronche-de-tech.md)
+- [Darknet Diaries](08_conference-podcast-and-media-notes/darknet-diaries.md)
+
 ## Templates
 
 - [Case file template](templates/case-file-template.md)
