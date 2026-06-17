@@ -56,6 +56,7 @@
 - [Pliny the Liberator](07_people-communities-and-researchers/pliny-the-liberator.md)
 - [Roni Carta](07_people-communities-and-researchers/roni-carta.md)
 - [Florian Roth](07_people-communities-and-researchers/florian-roth.md)
+- [Marcus Hutchins](07_people-communities-and-researchers/marcus-hutchins.md)
 
 ## Templates
 
