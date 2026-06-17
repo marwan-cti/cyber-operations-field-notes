@@ -12,6 +12,8 @@ What interests me is the hybrid nature of the actor. Lazarus is not just “a ha
 
 The crypto angle especially caught my attention because it shows that blockchain and exchanges are not only finance topics. They can become part of national security and strategic financing.
 
+I also dug into the social engineering side around fake job processes, developer targeting, remote-worker identity issues and DPRK IT worker schemes. That made me see that access can come through hiring, trust and identity, not only through malware.
+
 ## What I take from it
 
 Lazarus taught me that CTI (Cyber Threat Intelligence) cannot stay at the level of malware names or IOCs (Indicators of Compromise). You need to connect the actor, the target, the money movement, the social engineering and the political context.
@@ -20,8 +22,8 @@ It also reminds me to be careful with labels: “Lazarus” is often used as an 
 
 ## Current limit
 
-I still need to better understand the sub-clusters and naming differences between Lazarus, APT38, Bluenoroff and other DPRK-linked labels.
+I still need to better understand the sub-clusters and naming differences between Lazarus, APT38, Bluenoroff, TraderTraitor and other DPRK-linked labels.
 
 ## Resources I actually used
 
-MITRE ATT&CK, public reporting around Ronin and crypto hacks, FBI/Treasury attribution statements, articles and podcasts discussing Lazarus-linked operations.
+MITRE ATT&CK, public reporting around Ronin and crypto hacks, FBI/Treasury attribution statements, articles and podcasts discussing Lazarus-linked operations, and reporting around North Korean IT worker / fake interview schemes.
