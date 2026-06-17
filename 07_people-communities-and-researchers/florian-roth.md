@@ -4,11 +4,13 @@
 
 ## Why he is on my radar
 
-I discovered Florian Roth through YARA, Sigma, GitHub repositories and detection engineering references shared by security practitioners.
+I discovered Florian Roth through YARA, Sigma, GitHub repositories, detection engineering references and DEF CON content shared by security practitioners.
 
 ## What stuck with me
 
 What interests me is that his work sits at the point where CTI (Cyber Threat Intelligence) becomes useful to defenders. A report is one thing; a detection rule, hunting idea or repeatable check is another.
+
+His DEF CON material reinforced that detection is not just tooling; it is judgment, maintenance and tradecraft.
 
 ## What I take from it
 
@@ -22,4 +24,4 @@ I still need to practice writing, testing and tuning YARA/Sigma rules myself.
 
 ## Resources I actually used
 
-Neo23x0 GitHub, SigmaHQ references, YARA-related content, detection engineering discussions and Florian Roth interviews/posts.
+Neo23x0 GitHub, SigmaHQ references, YARA-related content, detection engineering discussions, Florian Roth interviews/posts and DEF CON material.
