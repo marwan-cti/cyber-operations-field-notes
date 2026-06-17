@@ -1,53 +1,27 @@
 # Marcus Hutchins
 
-## Status
+**Type:** malware analysis / WannaCry / kill switch
 
-Draft v1 — person / ecosystem profile.
+## Why he is on my radar
 
-## How I discovered him
+I discovered Marcus Hutchins through the WannaCry story, especially the interviews and reporting around the kill switch.
 
-I discovered Marcus Hutchins through the WannaCry story, especially interviews and reporting around the kill switch. His role stood out because it showed how one researcher, analyzing malware under pressure, could have a major defensive impact during a live global incident.
+## What stuck with me
 
-## Why he matters in my cyber culture
+What interested me is the operational impact of malware analysis. His action did not magically fix infected systems, but it helped slow the spread of a global outbreak.
 
-Marcus Hutchins matters because his WannaCry work is a memorable example of malware analysis becoming immediate incident response.
+The story also shows how media narratives can simplify people. “Accidental hero” is memorable, but the technical value came from actual skill, analysis and fast action.
 
-The important lesson is not that the kill switch was a magic trick. It is that reverse engineering, infrastructure analysis, domain registration, sinkholing and fast collaboration can change the trajectory of an outbreak.
+## What I take from it
 
-His story also shows that hacker identities can be complex. Public narratives often flatten people into “hero” or “criminal”. A CTI mindset should avoid simplistic storytelling and focus on evidence, context, behavior and evolution over time.
+Marcus Hutchins helped me understand that reverse engineering and infrastructure analysis can matter during an active crisis, not only after the fact.
 
-## Area
+For CTI (Cyber Threat Intelligence), the lesson is also narrative discipline: separate the technical facts from the media framing.
 
-- Malware analysis.
-- WannaCry.
-- Kill switch discovery.
-- Sinkholing.
-- Incident response.
-- Researcher culture and public narratives around hacking.
+## Current limit
 
-## What I learned from this case
+I do not want to reduce him only to WannaCry, but that is still the main part of his story I know best.
 
-- Malware analysis can have direct operational impact.
-- A defensive action can be accidental in discovery but still grounded in skill and process.
-- Sinkholing can provide visibility into global infection patterns.
-- Stopping propagation is not the same as recovering encrypted systems.
-- Public cyber narratives should be handled carefully, especially around individual researchers.
+## Resources I actually used
 
-## Relevance for CTI
-
-For CTI, Marcus Hutchins' WannaCry role is useful because it connects individual research, malware behavior, infrastructure analysis and outbreak visibility.
-
-It also reinforces the need to separate technical facts from media framing. “Accidental hero” is a compelling narrative, but the defensive value came from real technical fluency: reading malware behavior, registering the domain, observing connections and understanding the effect.
-
-## Caveats
-
-This profile should not reduce Marcus Hutchins to the kill switch story alone, nor should it ignore the later legal case around Kronos. The useful analytical posture is to acknowledge complexity without turning the note into gossip or moral theater.
-
-For this portfolio, the focus remains defensive: WannaCry, malware analysis, sinkholing and the importance of precise public narratives.
-
-## Sources to prioritize next
-
-- Wired — accidental kill switch coverage: https://www.wired.com/2017/05/accidental-kill-switch-slowed-fridays-massive-ransomware-attack/
-- TechCrunch — the WannaCry sinkhole: https://techcrunch.com/2019/07/08/the-wannacry-sinkhole/
-- The Guardian — accidental hero profile: https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger
-- Wired — Confessions of Marcus Hutchins: https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
+WannaCry documentaries, interviews, kill switch reporting and articles around Marcus Hutchins / MalwareTech.
